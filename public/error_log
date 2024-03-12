@@ -1,0 +1,1 @@
+[14-Aug-2021 18:24:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::delete_template() in /home/mwgkko1j8x60/public_html/data.artaux.io/app/Http/Controllers/AdminController.php on line 337
